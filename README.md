@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain
+<img align="right" width="400" alt="coding" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain">
 - 🔭 I’m currently working on **gemini_clone**
 
 - 🌱 I’m currently learning **react js**
