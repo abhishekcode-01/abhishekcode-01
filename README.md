@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://www.bing.com/images/search?view=detailV2&ccid=A6Sl8DS%2F&id=24461FAC22C9060E00021A1F53A7E793E813673B&thid=OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj&mediaurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&exph=360&expw=480&q=animated+coding+gif&simid=608033238232684293&FORM=IRPRST&ck=25B062C5F3C83F46EAA73421570F5DBD&selectedIndex=11&itb=0&cw=1375&ch=634&ajaxhist=0&ajaxserp=0
-
+https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain
 - 🔭 I’m currently working on **gemini_clone**
 
 - 🌱 I’m currently learning **react js**
